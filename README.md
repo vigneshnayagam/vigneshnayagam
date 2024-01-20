@@ -1,6 +1,6 @@
 👋   Hi, I’m Vignesh Nayagam (@vigneshnayagam)
 
-👀   I’m interested in all things Product and Business. I’m currently a Product Marketing Manager at BrowserStack.
+👀   I’m interested in all things Product and Business. I’m currently a Product Manager at BrowserStack, helping build a next-generation test reporting & analytics tool - Test Observability. 
 
 🌱   I'm here to experiment and learn a thing or two about emerging tech and coding.
 
