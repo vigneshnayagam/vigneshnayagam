@@ -4,6 +4,8 @@
 
 🌱   I'm here to experiment and learn a thing or two about emerging tech and coding.
 
+⚽   I'm a huge football and FPL fan. I built an ML-powered FPL price change predictor app - [FantasyPriceWatch! Check it out!](https://www.fantasypricewatch.com/?ref=github_profile)
+
 📫   Hit me up on Twitter at https://twitter.com/vigneshnayagam
 
 <!---
